@@ -2,10 +2,9 @@
 title: "Tutorial"
 author: "Felix Ho"
 date: "2024-11-25"
-categories: [news, code, analysis]
+categories: [code]
 ---
 
 ```{r}
 print("Hello World!")
 ```
-
