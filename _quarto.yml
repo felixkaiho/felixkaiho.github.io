@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-footer:
+    right: "This page is built with [Quarto](https://quarto.org/)."
+    left: "Felix Ho, University of Toronto @ 2024"
+  site-url: "https://fekaiho.github.io/"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: blog.qmd
+        text: Blog
+      - href: research.qmd
+        text: Research
+      - href: files/CV.pdf
+        text: CV
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme: Zephyr
+    css: styles.css
+
+editor: visual
+
+execute:
+  freeze: auto
