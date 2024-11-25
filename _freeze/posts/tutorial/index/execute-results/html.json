@@ -1,8 +1,8 @@
 {
-  "hash": "adfe40823b9e6d7476a270f96c235879",
+  "hash": "73db692d11503fa9bcf720b9c9131968",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Tutorial\"\nauthor: \"Felix Ho\"\ndate: \"2024-11-25\"\ncategories: [news, code, analysis]\n---\n\n::: {.cell}\n\n```{.r .cell-code}\nprint(\"Hello World!\")\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] \"Hello World!\"\n```\n\n\n:::\n:::\n",
+    "markdown": "---\ntitle: \"Tutorial\"\nauthor: \"Felix Ho\"\ndate: \"2024-11-25\"\ncategories: [code]\n---\n\n::: {.cell}\n\n```{.r .cell-code}\nprint(\"Hello World!\")\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] \"Hello World!\"\n```\n\n\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
