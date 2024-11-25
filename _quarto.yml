@@ -6,7 +6,7 @@ website:
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
     left: "Felix Ho, University of Toronto @ 2024"
-  site-url: "https://fekaiho.github.io/"
+  site-url: "https://felixkaiho.github.io/"
   navbar:
     right:
       - href: index.qmd
